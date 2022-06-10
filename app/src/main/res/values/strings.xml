@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Check Rating First</string>
+    <string name="logo_name">Check Rating First</string>
+    <string name="slogan_name">We will help you to find your way</string>
+    <string name="powered_by">check rating first</string>
+
+    <string name="home">Home</string>
+    <string name="food">Food</string>
+    <string name="clothes">Clothes</string>
+    <string name="electronics">Electronics</string>
+    <string name="all_categories">All Categories</string>
+    <string name="search">Search</string>
+
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+
+
+    <string name="add_product">Add Product</string>
+
+    <string name="profile">Profile</string>
+    <string name="about_us">About Us</string>
+    <string name="logout">Logout</string>
+
+
+</resources>

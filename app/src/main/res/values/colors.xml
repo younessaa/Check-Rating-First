@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F5F5F5</color>
+    <color name="colorPrimaryDark">#898584</color>
+    <color name="colorAccent">#272727</color>
+    <color name="lightWhite">#f5f5f5</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <!--Dashboard colors-->
+    <!--body and background colors-->
+    <color name="home_background">#f2f5f8</color>
+    <color name="banner_background">#f1E9CE</color>
+    <color name="banner_background_light">#56F1E9CE</color>
+    <!--card colors-->
+    <color name="card1">#d4cbe5</color>
+    <color name="card2">#7adccf</color>
+    <color name="card3">#f7c59f</color>
+    <color name="card4">#b8d7f5</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000</color>
+    <color name="hint">#797979</color>
+    <color name="login_background">#E6E9F1</color>
+    <color name="btn_login">#242424</color>
+    <color name="colorPrimaryGray">#585858</color>
+    <color name="colorPrimaryBlack">#525252</color>
+    <color name="colorGray">#898584</color>
+    <color name="colorCommentBody">#171516</color>
+    <color name="colorGolden">#FFBE64</color>
+
+
+
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_clothes"
+            android:title="@string/clothes" />
+        <item
+            android:id="@+id/nav_food"
+            android:title="@string/food" />
+        <item
+            android:id="@+id/nav_electronics"
+            android:title="@string/electronics" />
+        <item
+            android:id="@+id/nav_all_categories"
+            android:title="@string/all_categories" />
+        <item
+            android:id="@+id/nav_search"
+            android:title="@string/search" />
+        <item
+            android:id="@+id/nav_add_product"
+            android:visible="false"
+            android:title="@string/add_product" />
+        <item
+            android:id="@+id/nav_profil"
+            android:title="@string/profile" />
+    </group>
+    <item android:title="">
+        <menu>
+            <group android:checkableBehavior="none">
+
+                <item
+                    android:id="@+id/logout"
+                    android:title="@string/logout" />
+
+            </group>
+
+        </menu>
+
+    </item>
+
+
+</menu>
